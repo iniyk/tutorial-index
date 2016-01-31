@@ -8,6 +8,8 @@
 
 * **比较全面的**  [廖雪峰 - git教程] (http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+* <font color=#ff0000>New</font> - **更全面的git教程**  [ProGit] (https://git-scm.com/book/zh/v2/)
+
 * [git分支管理策略] (http://www.ruanyifeng.com/blog/2012/07/git.html)
 
 * [git使用规范流程] (http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)

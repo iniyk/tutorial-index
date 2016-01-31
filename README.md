@@ -4,4 +4,4 @@
 
 * [**Node.js教程目录**] (nodejs-tutorial.md)
 
-* [**git教程目录**] (git-tutorial.md)
+* [**git教程目录**] (git-tutorial.md) - <font color=#ff0000>New</font>
